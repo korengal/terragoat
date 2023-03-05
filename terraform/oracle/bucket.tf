@@ -1,4 +1,4 @@
-resource "oci_objectstorage_bucket" "secretsquirrel" {
+resource "oci_objectstorage_bucket" "secretsquirrel12321" {
   # bucket can't emit object events
   # Storage hasn't versioning enabled
   # Storage isn't encrypted with Customer Managed Key
